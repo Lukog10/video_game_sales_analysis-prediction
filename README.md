@@ -166,6 +166,11 @@ Hybrid (RF + XGB)               0.XXXX       0.XXXX       0.XXXX
 - EDA visualizations are optional (set `run_eda=True` to enable)
 - Hyperparameters can be modified in `config.py`
 
+## Author
+Gokul R
+GitHub: https://github.com/Lukog10
+LinkedIn: https://linkedin.com/in/GokulRlukoG
+
 ---
 
 ## License
